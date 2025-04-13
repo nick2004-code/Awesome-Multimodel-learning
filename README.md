@@ -37,6 +37,7 @@
 - 🧠 [Google Research – Multimodal Medical AI](https://research.google/blog/multimodal-medical-ai/)
 - 🩺 [Owkin: A–Z of AI in Healthcare](https://www.owkin.com/a-z-of-ai-in-healthcare)
 - 🔬 [Owkin – Multimodal Data in Healthcare](https://www.owkin.com/a-z-of-ai-for-healthcare/multimodal-data)
+- 🔍 [HIT Webinar 谢雨彤 MUZUAI](https://meeting.tencent.com/crm/2qP88r5Rc6)
 
 ---
 
